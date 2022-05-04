@@ -1,0 +1,71 @@
+
+body {
+  color:#36486D;
+  font-family: 'Roboto', sans-serif;
+  background-color: #D1CFE2;
+}
+
+div{
+  width: 700px;        /* Set the width */
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card {
+background-color: #D4AFB9;
+padding: 5px;
+border-radius: 30px;
+margin-bottom: 15px;
+box-shadow: 10px 10px 5px #C2BFD9;
+}
+
+.container {
+  margin: 0 auto; /* Définit automatiquement les marges à gauche/droite */
+}
+
+#ppic {
+background: white;                         /* White background */
+padding: 15px;                             /* Internal space */
+border-radius: 4px;                        /* Small radius */
+box-shadow: 5px 10px 5px #C695A2;    /* Light shadow */
+
+}
+
+h1{
+  font-weight: bold;
+}
+
+h1 h2 {
+  line-height: 5px;
+}
+
+h3 {
+  font-style: italic;
+  line-height: 5px;
+}
+
+#links{
+width: 700px;
+}
+
+#links i {
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+}
+
+ul {
+margin:0;
+padding:0 ;
+}
+
+.btn-outline-succes{
+  background-color: #7EC4CF;
+  color:white;
+  border-radius: 4px;
+  border-color: #52B2CF;
+}
